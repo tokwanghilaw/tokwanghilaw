@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <h1>Hi, I'm Bianca (tokwanghilaw) ˚˖𓍢ִ໋ 🦇 ✧˚.🔮⋆</h1>
-<p align = "center">A Bachelor of Science in Computer Science student and currently an indie game developer. </p>
+<p align = "center">I am a Bachelor of Science in Computer Science student and an indie game developer from Naga City, Philippines.</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
