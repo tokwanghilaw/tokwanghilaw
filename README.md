@@ -47,7 +47,7 @@ You can click the Preview link to take a look at your changes.
 ###
 
 <img align="right" height="160" src="https://i.postimg.cc/Hnv8RxWf/nami-one-piece.gif"  />
-<br />
+
 ###
 
 <div align="left">
