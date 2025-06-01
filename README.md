@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://github.com/tokwanghilaw/A-Bangketa-Story">A Bangketa Story</a></li>
-<li><a target="_blank" href="https://github.com/kaffw/Star-Guardians-FE">Behind the Human Facade</a></li>
+<li><a target="_blank" href="https://github.com/kaffw/Star-Guardians-FE">Corazon: Between Day & Dusk</a></li>
 </ul>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.facebook.com/libbiebi" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
