@@ -7,8 +7,8 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<h4 align="center">BS Computer Science Student | Indie Game Dev | Mobile & Front-End | UI/UX Design | [Portfolio](https://bianca-natalie-labrador.vercel.app)</h4>
-
+<h4 align="center">BS Computer Science Student | Indie Game Dev | Mobile & Front-End | UI/UX Design</h4>
+<p align="center">Portfolio: https://bianca-natalie-labrador.vercel.app</p>
 
 ###
 
