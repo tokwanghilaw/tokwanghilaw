@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<h4 align="center">BS Computer Science Student | Indie Game Dev | Mobile & Front-End | UI/UX Design <br/> <a href="bianca-natalie-labrador.vercel.app">View Portfolio Here</a></h4>
+<h4 align="center">BS Computer Science Student | Indie Game Dev | Mobile & Front-End | UI/UX Design <br/> [View Portfolio Here](bianca-natalie-labrador.vercel.app)</h4>
 
 ###
 
