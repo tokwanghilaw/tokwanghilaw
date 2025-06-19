@@ -65,16 +65,6 @@ You can click the Preview link to take a look at your changes.
 
 ###
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tokwanghilaw/tokwanghilaw/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tokwanghilaw/tokwanghilaw/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tokwanghilaw/tokwanghilaw/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/tokwanghilaw/count.svg?"  />
 </div>
