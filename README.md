@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">BS Computer Science Student | Indie Game Dev | Mobile & Front-End | UI/UX Design<br><br>Portfolio: https://bianca-natalie-labrador.vercel.app</h4>
+<h4 align="center">BS Computer Science Student | Indie Game Dev | Mobile & Front-End | UI/UX Design<br><br>Portfolio: https://bianca-labrador.vercel.app</h4>
 
 ###
 
